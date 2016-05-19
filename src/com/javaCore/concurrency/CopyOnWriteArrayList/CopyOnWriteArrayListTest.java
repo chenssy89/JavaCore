@@ -4,23 +4,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-/**
- * CopyOnWriteArrayList Ϊ�̰߳�ȫ�Ķ�̬����,ArrayList���̲߳���ȫ��<br>
- * �ڲ��������£�����̲߳���listʱ:<br>
- * --��listΪArrayList�����ܻ����ConcurrentModification�쳣<br>
- * --��listΪCopyWriteArrayList���򲻻�����쳣
- * @Project:javaConcurrency
- * @file:CopyOnWriteArrayListTest.java
- *
- * @Author:chenssy
- * @email:chenssy995812509@163.com
- * @url : http://cmsblogs.com
- * @qq : 122448894
- *
- * @data:2015��10��9��
- */
 public class CopyOnWriteArrayListTest {
-//	private static List<String> list = new ArrayList<>();
 	private static List<String> list = new CopyOnWriteArrayList<String>();
 	
 	public static void main(String[] args) {

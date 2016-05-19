@@ -2,18 +2,6 @@ package com.javaCore.concurrency.CountDownLatch;
 
 import java.util.concurrent.CountDownLatch;
 
-/**
- * 
- * @Project:javaConcurrency
- * @file:Conference.java
- *
- * @Author:chenssy
- * @email:chenssy995812509@163.com
- * @url : http://cmsblogs.com
- * @qq : 122448894
- *
- * @data:2015��9��6��
- */
 public class Conference implements Runnable{
 	private final CountDownLatch countDown;
 	

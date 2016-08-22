@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.condition;
+package com.javaCore.java_thread.JUC.Lock.condition;
 
 public class Producer {
     private Depot depot;

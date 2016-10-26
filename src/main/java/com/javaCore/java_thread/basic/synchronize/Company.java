@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.synchronize;
+package com.javaCore.java_thread.basic.synchronize;
 
 public class Company implements Runnable{
 	

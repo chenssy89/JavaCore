@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.Exchanger;
+package com.javaCore.java_thread.JUC.ThreadUtils.Exchanger;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.condition;
+package com.javaCore.java_thread.JUC.Lock.condition;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

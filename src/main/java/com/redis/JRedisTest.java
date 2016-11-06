@@ -141,4 +141,17 @@ public class JRedisTest {
         System.out.println(jedis.sort("sort"));
         System.out.println(jedis.lrange("sort",0,-1));
     }
+
+    /**
+     * 连接池test
+     *
+     * @author chenming
+     * @date 2016-11-06
+     * @since v1.0.0
+     */
+    @Test
+    public void redisPoolTest(){
+        JRedisPoolUtils.getJedis().set("pool","chenssy-redis-pool");
+        System.out.println(JRedisPoolUtils.getJedis().get("pool"));
+    }
 }

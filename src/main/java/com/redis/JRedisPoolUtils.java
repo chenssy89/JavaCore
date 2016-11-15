@@ -1,4 +1,4 @@
-package main.java.com.redis;
+package com.redis;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;

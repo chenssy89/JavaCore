@@ -1,4 +1,4 @@
-package main.java.com.javaCore.java_thread.model.GuardedSuspension;
+package com.javaCore.java_thread.model.GuardedSuspension;
 
 /**
  * @Author: chenssy

@@ -1,4 +1,4 @@
-package main.java.com.javaCore.java_thread.model.MasterWorker;
+package com.javaCore.java_thread.model.MasterWorker;
 
 import java.util.HashMap;
 import java.util.Map;

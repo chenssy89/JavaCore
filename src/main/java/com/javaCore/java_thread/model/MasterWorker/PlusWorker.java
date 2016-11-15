@@ -1,4 +1,4 @@
-package main.java.com.javaCore.java_thread.model.MasterWorker;
+package com.javaCore.java_thread.model.MasterWorker;
 
 /**
  * @Author: chenssy

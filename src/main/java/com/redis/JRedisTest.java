@@ -1,4 +1,4 @@
-package main.java.com.redis;
+package com.redis;
 
 import org.junit.Before;
 import org.junit.Test;

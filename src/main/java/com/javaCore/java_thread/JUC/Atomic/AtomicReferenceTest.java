@@ -32,7 +32,7 @@ public class AtomicReferenceTest {
         }
     }
 
-    private static AtomicReference<User> atomicReference = new AtomicReference<>();
+    private static AtomicReference<User> atomicReference = new AtomicReference<User>();
 
     public static void main(String[] args){
         User user = new User("chenssy",18);

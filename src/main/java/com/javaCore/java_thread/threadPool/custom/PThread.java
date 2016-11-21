@@ -1,4 +1,4 @@
-package main.java.com.javaCore.java_thread.threadPool.custom;
+package com.javaCore.java_thread.threadPool.custom;
 
 /**
  * @author chenssy

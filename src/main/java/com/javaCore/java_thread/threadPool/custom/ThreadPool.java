@@ -1,4 +1,4 @@
-package main.java.com.javaCore.java_thread.threadPool.custom;
+package com.javaCore.java_thread.threadPool.custom;
 
 import java.util.List;
 import java.util.Vector;
@@ -18,7 +18,7 @@ public class ThreadPool {
     private boolean isShutDown = false;
 
     private ThreadPool(){
-        this.idleThreads = new Vector<>(5);
+        this.idleThreads = new Vector<Thread>(5);
         threadCounter = 0;
     }
 

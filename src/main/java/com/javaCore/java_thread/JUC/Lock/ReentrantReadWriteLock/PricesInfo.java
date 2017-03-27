@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.ReentrantReadWriteLock;
+package com.javaCore.java_thread.JUC.Lock.ReentrantReadWriteLock;
 
 import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;

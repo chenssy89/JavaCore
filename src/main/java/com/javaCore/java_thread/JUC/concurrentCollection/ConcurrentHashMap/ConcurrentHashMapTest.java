@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.ConcurrentHashMap;
+package com.javaCore.java_thread.JUC.concurrentCollection.ConcurrentHashMap;
 
 import java.util.concurrent.ConcurrentHashMap;
 

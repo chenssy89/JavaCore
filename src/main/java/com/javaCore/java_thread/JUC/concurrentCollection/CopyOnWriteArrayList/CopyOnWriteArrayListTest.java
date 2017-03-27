@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.CopyOnWriteArrayList;
+package com.javaCore.java_thread.JUC.concurrentCollection.CopyOnWriteArrayList;
 
 import java.util.Iterator;
 import java.util.List;

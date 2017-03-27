@@ -1,4 +1,4 @@
-package com.javaCore.java_thread.JUC.ReentrantLock;
+package com.javaCore.java_thread.JUC.Lock.ReentrantLock._1;
 
 public class Test {
 	public static void main(String[] args) {

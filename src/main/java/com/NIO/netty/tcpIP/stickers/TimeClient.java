@@ -1,4 +1,4 @@
-package main.java.com.NIO.netty.tcpIP.stickers;
+package com.ufclub.ljs.autoInvest.model.AutoInvestSettingcom.NIO.netty.tcpIP.stickers;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

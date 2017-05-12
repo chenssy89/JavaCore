@@ -1,4 +1,4 @@
-package main.java.com.NIO.netty.frameDecoder.DelimiterBasedFrameDecoder;
+package com.NIO.netty.frameDecoder.DelimiterBasedFrameDecoder;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

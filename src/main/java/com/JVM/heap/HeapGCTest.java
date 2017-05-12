@@ -1,4 +1,4 @@
-package main.java.com.JVM.heap;
+package com.ufclub.ljs.autoInvest.model.AutoInvestSettingcom.JVM.heap;
 
 /**
  * Java GC测试

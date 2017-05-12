@@ -1,4 +1,4 @@
-package main.java.com.JVM.stack;
+package com.ufclub.ljs.autoInvest.model.AutoInvestSettingcom.JVM.stack;
 
 /**
  * @author chenssy

@@ -1,4 +1,4 @@
-package main.java.com.NIO.netty.tcpIP.stickers;
+package com.NIO.netty.tcpIP.stickers;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

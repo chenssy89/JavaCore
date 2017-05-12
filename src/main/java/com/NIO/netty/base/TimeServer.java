@@ -1,4 +1,4 @@
-package main.java.com.NIO.netty.base;
+package com.NIO.netty.base;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

@@ -1,4 +1,4 @@
-package main.java.com.NIO.netty.tcpIP.NotStickers;
+package com.NIO.netty.tcpIP.NotStickers;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

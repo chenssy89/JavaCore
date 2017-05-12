@@ -1,4 +1,4 @@
-package main.java.com.JVM.perm;
+package com.ufclub.ljs.autoInvest.model.AutoInvestSettingcom.JVM.perm;
 
 /**
  * 常量池GC策略：只要常量池中的常量没有被任何地方引用，就可以被回收

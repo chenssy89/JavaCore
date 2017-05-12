@@ -1,4 +1,4 @@
-package main.java.com.NIO.netty.base;
+package com.NIO.netty.base;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;
@@ -28,6 +28,7 @@ public class TimeClient {
             ChannelFuture future = b.connect(host, port);
 
             // 等待客户端链路关闭
+
 
             future.channel().closeFuture().sync();
         } catch (InterruptedException e) {

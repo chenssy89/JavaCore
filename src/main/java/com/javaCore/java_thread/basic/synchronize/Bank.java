@@ -1,5 +1,5 @@
 package com.javaCore.java_thread.basic.synchronize;
-
+//multithreading through implementing runnable
 public class Bank implements Runnable{
 	
 	private Account account;
